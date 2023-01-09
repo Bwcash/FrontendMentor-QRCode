@@ -19,7 +19,7 @@ This is a web page containing an image of a QR code that directs you to the Fron
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [git repo solution](https://github.com/Bwcash/FrontendMentor-QRCode.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process

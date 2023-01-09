@@ -1,0 +1,51 @@
+.top-box{
+    background-color: #D6E2F0;
+    height: 160%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+.innerbox{
+    background-color: #FFFFFF;
+    position: relative;
+    width: 30%;
+    height: 55%;
+   
+    border-radius: 10%;
+    margin: 3% auto;
+}
+.toppara{
+    top: 2%;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    position: relative;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.bottompara{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    position: relative;
+    text-align: center;
+    width: 80%;
+    margin: auto; 
+    top: 5%;
+}
+.attribution{
+    position: relative;
+   top: 670px;
+    text-align: center;
+}
+.qrcode{
+    position: relative;
+    width: 90%;
+    height: 65%;
+    border-radius: 10%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
