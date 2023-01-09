@@ -20,7 +20,7 @@ This is a web page containing an image of a QR code that directs you to the Fron
 ### Links
 
 - Solution URL: [git repo solution](https://github.com/Bwcash/FrontendMentor-QRCode.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://bwcash.github.io/FrontendMentor-QRCode/)
 
 ## My process
 I started by creating an element to hold the background color. I then created an element to hold the sthe text and image. I then positioned the text. Lastly I added the image and positioned it.
